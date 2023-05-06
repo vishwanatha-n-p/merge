@@ -5,3 +5,8 @@ In this tutorial we will learn below topics
 Adding new line
 what is git
 what is github
+<<<<<<< HEAD
+
+And many more
+=======
+>>>>>>> commit done in repo B
